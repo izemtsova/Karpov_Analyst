@@ -1,0 +1,10 @@
+# Analyst by Karpov_courses
+Study projects from the course "Data Science Specialist" Yandex
+
+В этом репозитории собраны мои учебные проекты из курса "Аналитик данных" Karpov courses.
+
+### Список проектов:
+| Название | Описание | Инструменты |  Ключевые слова  |
+| :------------------- | :---------------------- | :---------------------- | :------ |
+| [Преобработка данных](https://github.com/izemtsova/yandex_practicum_ds/edit/main/README.md) |  Предобработка датасета для кредитного скоринга . | `pandas` `matplotlib` | EDA, analysis, feature engineering |
+| 
