@@ -1,5 +1,5 @@
 # Analyst by Karpov_courses
-Study projects from the course "Data Science Specialist" Yandex
+Study projects from the course "Analyst" Karpov courses
 
 В этом репозитории собраны мои учебные проекты из курса "Аналитик данных" Karpov courses.
 
@@ -8,3 +8,8 @@ Study projects from the course "Data Science Specialist" Yandex
 | :------------------- | :---------------------- | :---------------------- | :------ |
 | [Преобработка данных](https://github.com/izemtsova/yandex_practicum_ds/edit/main/README.md) |  Предобработка датасета для кредитного скоринга . | `pandas` `matplotlib` | EDA, analysis, feature engineering |
 | 
+# yandex_practicum_ds
+Study projects from the course "Data Science Specialist" Yandex
+
+В этом репозитории собраны мои учебные проекты из курса "Специалист по Data Science" Яндекс.Практикума.
+
